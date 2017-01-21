@@ -1,0 +1,43 @@
+src/signal_main.o: ../src/signal_main.cpp \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WString.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/HardwareSerial.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Printable.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\mega/pins_arduino.h \
+ ../src/signals.h ../src/bulbs.h ../src/bulb_pindefs.h ../src/states.h
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WString.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/HardwareSerial.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Stream.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Print.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Printable.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h:
+
+C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\mega/pins_arduino.h:
+
+../src/signals.h:
+
+../src/bulbs.h:
+
+../src/bulb_pindefs.h:
+
+../src/states.h:

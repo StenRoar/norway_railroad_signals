@@ -1,0 +1,1550 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o (main)
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+                              ./src/signal_main.o (_ZdlPv)
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                              ./src/signal_main.o (millis)
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                              ./src/signal_main.o (analogWrite)
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                              ./src/signal_main.o (pinMode)
+C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+                              C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o) (yield)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+                              ./src/signal_main.o (__udivmodsi4)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o (exit)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+                              C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o) (__tablejump2__)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+                              ./src/signal_main.o (__do_copy_data)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+                              ./src/signal_main.o (__do_clear_bss)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+                              ./src/signal_main.o (__do_global_ctors)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+                              ./src/signal_main.o (__do_global_dtors)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                              ./src/signal_main.o (__subsf3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                              ./src/signal_main.o (__divsf3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+                              ./src/signal_main.o (__fixsfsi)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o) (__fixunssfsi)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                              ./src/signal_main.o (__floatunsisf)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                              ./src/signal_main.o (__mulsf3)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o) (malloc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__flp               0x2               c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0xc ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .group         0x00000000        0x8 ./src/signal_main.o
+ .text          0x00000000        0x0 ./src/signal_main.o
+ .bss           0x00000000        0x0 ./src/signal_main.o
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .text._Znwj    0x00000000        0x4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .text._Znaj    0x00000000        0x4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .text.micros   0x00000000       0x4a C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .text.delay    0x00000000       0x78 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .text.analogRead
+                0x00000000       0x4a C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .data.analog_reference
+                0x00000000        0x1 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+ .text.__empty  0x00000000        0x2 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+LOAD ./src/signal_main.o
+LOAD C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a
+START GROUP
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a
+LOAD c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libatmega2560.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1e52
+ *(.vectors)
+ .vectors       0x00000000       0xe4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.analogWrite
+                0x000000e4       0x24 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .progmem.gcc_sw_table.turnOffPWM
+                0x00000108       0x24 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x0000012c                . = ALIGN (0x2)
+                0x0000012c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000012c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000012c                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x0000012c       0x46 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x0000012c                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x00000172       0x46 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x00000172                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x000001b8       0x46 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x000001b8                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000001fe       0x1a C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x000001fe                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x00000218       0x1a C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x00000218                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000232       0x1a C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x00000232                port_to_mode_PGM
+                0x0000024c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000024c                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000024c        0x2 ./src/signal_main.o
+                0x0000024e                __ctors_end = .
+                0x0000024e                __dtors_start = .
+ *(.dtors)
+ .dtors         0x0000024e        0x2 ./src/signal_main.o
+                0x00000250                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000250        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+                0x00000250                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000250       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000260       0x1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+                0x00000260                __do_copy_data
+ .init4         0x0000027a       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+                0x0000027a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000028a       0x20 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+                0x0000028a                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000002aa        0x8 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+ *(.init9)
+ *(.text)
+ .text          0x000002b2        0x2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+                0x000002b2                __vector_38
+                0x000002b2                __vector_22
+                0x000002b2                __vector_28
+                0x000002b2                __vector_1
+                0x000002b2                __vector_32
+                0x000002b2                __vector_34
+                0x000002b2                __vector_24
+                0x000002b2                __vector_12
+                0x000002b2                __vector_55
+                0x000002b2                __vector_46
+                0x000002b2                __bad_interrupt
+                0x000002b2                __vector_6
+                0x000002b2                __vector_31
+                0x000002b2                __vector_35
+                0x000002b2                __vector_39
+                0x000002b2                __vector_3
+                0x000002b2                __vector_30
+                0x000002b2                __vector_45
+                0x000002b2                __vector_25
+                0x000002b2                __vector_11
+                0x000002b2                __vector_54
+                0x000002b2                __vector_13
+                0x000002b2                __vector_17
+                0x000002b2                __vector_19
+                0x000002b2                __vector_56
+                0x000002b2                __vector_7
+                0x000002b2                __vector_49
+                0x000002b2                __vector_41
+                0x000002b2                __vector_43
+                0x000002b2                __vector_27
+                0x000002b2                __vector_5
+                0x000002b2                __vector_33
+                0x000002b2                __vector_47
+                0x000002b2                __vector_52
+                0x000002b2                __vector_37
+                0x000002b2                __vector_4
+                0x000002b2                __vector_44
+                0x000002b2                __vector_51
+                0x000002b2                __vector_9
+                0x000002b2                __vector_2
+                0x000002b2                __vector_21
+                0x000002b2                __vector_15
+                0x000002b2                __vector_36
+                0x000002b2                __vector_29
+                0x000002b2                __vector_40
+                0x000002b2                __vector_8
+                0x000002b2                __vector_26
+                0x000002b2                __vector_48
+                0x000002b2                __vector_14
+                0x000002b2                __vector_53
+                0x000002b2                __vector_10
+                0x000002b2                __vector_50
+                0x000002b2                __vector_16
+                0x000002b2                __vector_18
+                0x000002b2                __vector_20
+                0x000002b2                __vector_42
+                0x000002b4                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN4BulbD2Ev
+                0x000002b4        0x2 ./src/signal_main.o
+                0x000002b4                _ZN4BulbD2Ev
+                0x000002b4                _ZN4BulbD1Ev
+ .text._ZN12FlashingBulb8SetOnPwmERKj
+                0x000002b6        0xe ./src/signal_main.o
+                0x000002b6                _ZN12FlashingBulb8SetOnPwmERKj
+ .text._ZN12FlashingBulb13SetFadeupTimeERKj
+                0x000002c4        0xe ./src/signal_main.o
+                0x000002c4                _ZN12FlashingBulb13SetFadeupTimeERKj
+ .text._ZN12FlashingBulb15SetFadedownTimeERKj
+                0x000002d2        0xe ./src/signal_main.o
+                0x000002d2                _ZN12FlashingBulb15SetFadedownTimeERKj
+ .text._ZN9TallShift6UpdateEm
+                0x000002e0        0x2 ./src/signal_main.o
+                0x000002e0                _ZN9TallShift6UpdateEm
+ .text._ZN13DistantSignalD2Ev
+                0x000002e2        0x2 ./src/signal_main.o
+                0x000002e2                _ZN13DistantSignalD1Ev
+                0x000002e2                _ZN13DistantSignalD2Ev
+ .text._ZN12MainInSignalD2Ev
+                0x000002e4        0x2 ./src/signal_main.o
+                0x000002e4                _ZN12MainInSignalD1Ev
+                0x000002e4                _ZN12MainInSignalD2Ev
+ .text._ZN13MainOutSignalD2Ev
+                0x000002e6        0x2 ./src/signal_main.o
+                0x000002e6                _ZN13MainOutSignalD1Ev
+                0x000002e6                _ZN13MainOutSignalD2Ev
+ .text._ZN11NormalStateD2Ev
+                0x000002e8        0x2 ./src/signal_main.o
+                0x000002e8                _ZN11NormalStateD1Ev
+                0x000002e8                _ZN11NormalStateD2Ev
+ .text._ZN11NormalState7IsValidERK10LogicState
+                0x000002ea       0x24 ./src/signal_main.o
+                0x000002ea                _ZN11NormalState7IsValidERK10LogicState
+ .text._ZN11NormalState9GetImagesER16ImagesCollection
+                0x0000030e       0x20 ./src/signal_main.o
+                0x0000030e                _ZN11NormalState9GetImagesER16ImagesCollection
+ .text._ZN9PassStateD2Ev
+                0x0000032e        0x2 ./src/signal_main.o
+                0x0000032e                _ZN9PassStateD2Ev
+                0x0000032e                _ZN9PassStateD1Ev
+ .text._ZN9PassState7IsValidERK10LogicState
+                0x00000330       0x4c ./src/signal_main.o
+                0x00000330                _ZN9PassState7IsValidERK10LogicState
+ .text._ZN9PassState9GetImagesER16ImagesCollection
+                0x0000037c       0x7e ./src/signal_main.o
+                0x0000037c                _ZN9PassState9GetImagesER16ImagesCollection
+ .text._ZN13CrossingStateD2Ev
+                0x000003fa        0x2 ./src/signal_main.o
+                0x000003fa                _ZN13CrossingStateD1Ev
+                0x000003fa                _ZN13CrossingStateD2Ev
+ .text._ZN13CrossingState9GetImagesER16ImagesCollection
+                0x000003fc       0x42 ./src/signal_main.o
+                0x000003fc                _ZN13CrossingState9GetImagesER16ImagesCollection
+ .text._ZN13InToStopStateD2Ev
+                0x0000043e        0x2 ./src/signal_main.o
+                0x0000043e                _ZN13InToStopStateD2Ev
+                0x0000043e                _ZN13InToStopStateD1Ev
+ .text._ZN13InToStopState9GetImagesER16ImagesCollection
+                0x00000440       0x62 ./src/signal_main.o
+                0x00000440                _ZN13InToStopState9GetImagesER16ImagesCollection
+ .text._ZN8OutStateD2Ev
+                0x000004a2        0x2 ./src/signal_main.o
+                0x000004a2                _ZN8OutStateD1Ev
+                0x000004a2                _ZN8OutStateD2Ev
+ .text._ZN8OutState9GetImagesER16ImagesCollection
+                0x000004a4       0x64 ./src/signal_main.o
+                0x000004a4                _ZN8OutState9GetImagesER16ImagesCollection
+ .text._ZN16InToStopOutStateD2Ev
+                0x00000508        0x2 ./src/signal_main.o
+                0x00000508                _ZN16InToStopOutStateD1Ev
+                0x00000508                _ZN16InToStopOutStateD2Ev
+ .text._ZN16InToStopOutState9GetImagesER16ImagesCollection
+                0x0000050a       0x7e ./src/signal_main.o
+                0x0000050a                _ZN16InToStopOutState9GetImagesER16ImagesCollection
+ .text._ZN13ShiftingStateD2Ev
+                0x00000588        0x2 ./src/signal_main.o
+                0x00000588                _ZN13ShiftingStateD2Ev
+                0x00000588                _ZN13ShiftingStateD1Ev
+ .text._ZN13ShiftingState7IsValidERK10LogicState
+                0x0000058a       0x56 ./src/signal_main.o
+                0x0000058a                _ZN13ShiftingState7IsValidERK10LogicState
+ .text._ZN9TallShiftD2Ev
+                0x000005e0        0x2 ./src/signal_main.o
+                0x000005e0                _ZN9TallShiftD2Ev
+                0x000005e0                _ZN9TallShiftD1Ev
+ .text._ZN12FlashingBulbD2Ev
+                0x000005e2        0x2 ./src/signal_main.o
+                0x000005e2                _ZN12FlashingBulbD1Ev
+                0x000005e2                _ZN12FlashingBulbD2Ev
+ .text._ZN4Bulb6EnableEv
+                0x000005e4       0x18 ./src/signal_main.o
+                0x000005e4                _ZN4Bulb6EnableEv
+ .text._ZN4Bulb7DisableEv
+                0x000005fc       0x16 ./src/signal_main.o
+                0x000005fc                _ZN4Bulb7DisableEv
+ .text._ZN4BulbD0Ev
+                0x00000612        0x2 ./src/signal_main.o
+                0x00000612                _ZN4BulbD0Ev
+ .text._ZN12FlashingBulbD0Ev
+                0x00000614        0x2 ./src/signal_main.o
+                0x00000614                _ZN12FlashingBulbD0Ev
+ .text._ZN12MainInSignalD0Ev
+                0x00000616        0x2 ./src/signal_main.o
+                0x00000616                _ZN12MainInSignalD0Ev
+ .text._ZN13DistantSignalD0Ev
+                0x00000618        0x2 ./src/signal_main.o
+                0x00000618                _ZN13DistantSignalD0Ev
+ .text._ZN13MainOutSignalD0Ev
+                0x0000061a        0x2 ./src/signal_main.o
+                0x0000061a                _ZN13MainOutSignalD0Ev
+ .text._ZN9TallShiftD0Ev
+                0x0000061c        0x2 ./src/signal_main.o
+                0x0000061c                _ZN9TallShiftD0Ev
+ .text._ZN11NormalStateD0Ev
+                0x0000061e        0x2 ./src/signal_main.o
+                0x0000061e                _ZN11NormalStateD0Ev
+ .text._ZN13CrossingStateD0Ev
+                0x00000620        0x2 ./src/signal_main.o
+                0x00000620                _ZN13CrossingStateD0Ev
+ .text._ZN9PassStateD0Ev
+                0x00000622        0x2 ./src/signal_main.o
+                0x00000622                _ZN9PassStateD0Ev
+ .text._ZN13InToStopStateD0Ev
+                0x00000624        0x2 ./src/signal_main.o
+                0x00000624                _ZN13InToStopStateD0Ev
+ .text._ZN8OutStateD0Ev
+                0x00000626        0x2 ./src/signal_main.o
+                0x00000626                _ZN8OutStateD0Ev
+ .text._ZN16InToStopOutStateD0Ev
+                0x00000628        0x2 ./src/signal_main.o
+                0x00000628                _ZN16InToStopOutStateD0Ev
+ .text._ZN13ShiftingStateD0Ev
+                0x0000062a        0x2 ./src/signal_main.o
+                0x0000062a                _ZN13ShiftingStateD0Ev
+ .text._ZN13CrossingState7IsValidERK10LogicState
+                0x0000062c       0x34 ./src/signal_main.o
+                0x0000062c                _ZN13CrossingState7IsValidERK10LogicState
+ .text._ZN13InToStopState7IsValidERK10LogicState
+                0x00000660       0x54 ./src/signal_main.o
+                0x00000660                _ZN13InToStopState7IsValidERK10LogicState
+ .text._ZN8OutState7IsValidERK10LogicState
+                0x000006b4       0x90 ./src/signal_main.o
+                0x000006b4                _ZN8OutState7IsValidERK10LogicState
+ .text._ZN16InToStopOutState7IsValidERK10LogicState
+                0x00000744       0x5c ./src/signal_main.o
+                0x00000744                _ZN16InToStopOutState7IsValidERK10LogicState
+ .text._ZN13ShiftingState9GetImagesER16ImagesCollection
+                0x000007a0       0xde ./src/signal_main.o
+                0x000007a0                _ZN13ShiftingState9GetImagesER16ImagesCollection
+ .text._ZN13DistantSignal8SetImageENS_6ImagesE.part.7
+                0x0000087e       0x14 ./src/signal_main.o
+ .text._ZN4BulbC2Ei
+                0x00000892       0x22 ./src/signal_main.o
+                0x00000892                _ZN4BulbC2Ei
+                0x00000892                _ZN4BulbC1Ei
+ .text._ZN12FlashingBulbC2Ei
+                0x000008b4       0x56 ./src/signal_main.o
+                0x000008b4                _ZN12FlashingBulbC1Ei
+                0x000008b4                _ZN12FlashingBulbC2Ei
+ .text._ZN12FlashingBulb6UpdateEm
+                0x0000090a      0x170 ./src/signal_main.o
+                0x0000090a                _ZN12FlashingBulb6UpdateEm
+ .text._ZN13DistantSignal6UpdateEm
+                0x00000a7a       0x2c ./src/signal_main.o
+                0x00000a7a                _ZN13DistantSignal6UpdateEm
+ .text._ZN13MainOutSignal6UpdateEm
+                0x00000aa6        0x4 ./src/signal_main.o
+                0x00000aa6                _ZN13MainOutSignal6UpdateEm
+ .text._ZN12MainInSignal6UpdateEm
+                0x00000aaa       0x2c ./src/signal_main.o
+                0x00000aaa                _ZN12MainInSignal6UpdateEm
+ .text._ZN9TallShift8SetImageENS_6ImagesE
+                0x00000ad6        0xc ./src/signal_main.o
+                0x00000ad6                _ZN9TallShift8SetImageENS_6ImagesE
+ .text._ZN13DistantSignal8SetImageENS_6ImagesE
+                0x00000ae2       0x40 ./src/signal_main.o
+                0x00000ae2                _ZN13DistantSignal8SetImageENS_6ImagesE
+ .text._ZN12MainInSignal8SetImageENS_6ImagesE
+                0x00000b22       0x94 ./src/signal_main.o
+                0x00000b22                _ZN12MainInSignal8SetImageENS_6ImagesE
+ .text._ZN12MainInSignalC2Ejjjjj
+                0x00000bb6       0x82 ./src/signal_main.o
+                0x00000bb6                _ZN12MainInSignalC2Ejjjjj
+                0x00000bb6                _ZN12MainInSignalC1Ejjjjj
+ .text._ZN13MainOutSignalC2Ejjjjjjj
+                0x00000c38       0x8a ./src/signal_main.o
+                0x00000c38                _ZN13MainOutSignalC1Ejjjjjjj
+                0x00000c38                _ZN13MainOutSignalC2Ejjjjjjj
+ .text._ZN13MainOutSignal8SetImageENS_6ImagesEN12MainInSignal6ImagesE
+                0x00000cc2      0x110 ./src/signal_main.o
+                0x00000cc2                _ZN13MainOutSignal8SetImageENS_6ImagesEN12MainInSignal6ImagesE
+ .text._Z10set_imagesv
+                0x00000dd2       0x72 ./src/signal_main.o
+                0x00000dd2                _Z10set_imagesv
+ .text._Z14update_signalsRKm
+                0x00000e44       0x42 ./src/signal_main.o
+                0x00000e44                _Z14update_signalsRKm
+ .text._Z17poll_logic_changev
+                0x00000e86      0x12a ./src/signal_main.o
+                0x00000e86                _Z17poll_logic_changev
+ .text._Z12update_statev
+                0x00000fb0       0x5a ./src/signal_main.o
+                0x00000fb0                _Z12update_statev
+ .text._Z17initialize_statesv
+                0x0000100a       0x3e ./src/signal_main.o
+                0x0000100a                _Z17initialize_statesv
+ .text.setup    0x00001048       0x5c ./src/signal_main.o
+                0x00001048                setup
+ .text._Z14set_error_ledsRKb
+                0x000010a4       0x5e ./src/signal_main.o
+                0x000010a4                _Z14set_error_ledsRKb
+ .text.loop     0x00001102       0x54 ./src/signal_main.o
+                0x00001102                loop
+ .text.startup._GLOBAL__sub_I_main_in_A
+                0x00001156      0x166 ./src/signal_main.o
+ .text.exit._GLOBAL__sub_D_main_in_A
+                0x000012bc        0x2 ./src/signal_main.o
+ .text.initVariant
+                0x000012be        0x2 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+                0x000012be                initVariant
+ .text.startup.main
+                0x000012c0       0x16 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+                0x000012c0                main
+ .text._ZdlPv   0x000012d6        0x2 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+                0x000012d6                _ZdlPv
+ .text.__vector_23
+                0x000012d8       0x94 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                0x000012d8                __vector_23
+ .text.millis   0x0000136c       0x18 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                0x0000136c                millis
+ .text.init     0x00001384       0xc4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                0x00001384                init
+ .text.analogWrite
+                0x00001448      0x18c C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                0x00001448                analogWrite
+ .text.turnOffPWM
+                0x000015d4       0xaa C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x0000167e       0x78 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x0000167e                pinMode
+ .text.digitalWrite
+                0x000016f6       0x5e C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x000016f6                digitalWrite
+ .text.digitalRead
+                0x00001754       0x50 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                0x00001754                digitalRead
+ .text.libgcc.div
+                0x000017a4       0x44 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+                0x000017a4                __udivmodsi4
+ .text.libgcc   0x000017e8       0x10 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+                0x000017e8                __tablejump2__
+ .text.avr-libc.fplib
+                0x000017f8        0xa c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                0x000017f8                __subsf3
+                0x000017fa                __addsf3
+ .text.avr-libc.fplib
+                0x00001802       0xc0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                0x0000181c                __addsf3x
+ .text.avr-libc.fplib
+                0x000018c2        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                0x000018c2                __divsf3
+ .text.avr-libc.fplib
+                0x000018c6       0xcc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                0x000018dc                __divsf3x
+                0x000018e0                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00001992        0xa c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+                0x00001992                __fixsfsi
+ .text.avr-libc.fplib
+                0x0000199c       0x58 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                0x0000199c                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000019f4       0x7a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                0x000019f4                __floatunsisf
+                0x000019f8                __floatsisf
+ .text.avr-libc.fplib
+                0x00001a6e        0xc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                0x00001a6e                __fp_inf
+ .text.avr-libc.fplib
+                0x00001a7a        0x6 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                0x00001a7a                __fp_nan
+ .text.avr-libc.fplib
+                0x00001a80        0xe c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                0x00001a80                __fp_pscA
+ .text.avr-libc.fplib
+                0x00001a8e        0xe c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                0x00001a8e                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001a9c       0x22 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                0x00001a9c                __fp_round
+ .text.avr-libc.fplib
+                0x00001abe       0x44 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                0x00001abe                __fp_split3
+                0x00001ace                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001b02        0xe c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                0x00001b02                __fp_zero
+                0x00001b04                __fp_szero
+ .text.avr-libc.fplib
+                0x00001b10        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                0x00001b10                __mulsf3
+ .text.avr-libc.fplib
+                0x00001b14       0xc2 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                0x00001b28                __mulsf3x
+                0x00001b2c                __mulsf3_pse
+ .text.avr-libc
+                0x00001bd6      0x25a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00001bd6                malloc
+                0x00001d00                free
+                0x00001e30                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001e30        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+                0x00001e30                _exit
+                0x00001e30                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x00001e30       0x1e c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+                0x00001e30                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001e4e        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001e52                _etext = .
+
+.data           0x00800200       0xb2 load address 0x00001e52
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+ .data          0x00800200        0x0 ./src/signal_main.o
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+ .data          0x00800200        0x0 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+ .data          0x00800200        0x0 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+ .data          0x00800200        0x6 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00800200                __malloc_heap_end
+                0x00800202                __malloc_heap_start
+                0x00800204                __malloc_margin
+ *(.data*)
+ .data.b_shift_pin
+                0x00800206        0x2 ./src/signal_main.o
+                0x00800206                b_shift_pin
+ .data.b_dev_pin
+                0x00800208        0x2 ./src/signal_main.o
+                0x00800208                b_dev_pin
+ .data.b_out_pin
+                0x0080020a        0x2 ./src/signal_main.o
+                0x0080020a                b_out_pin
+ .data.b_in_pin
+                0x0080020c        0x2 ./src/signal_main.o
+                0x0080020c                b_in_pin
+ .data.a_shift_pin
+                0x0080020e        0x2 ./src/signal_main.o
+                0x0080020e                a_shift_pin
+ .data.a_dev_pin
+                0x00800210        0x2 ./src/signal_main.o
+                0x00800210                a_dev_pin
+ .data.a_out_pin
+                0x00800212        0x2 ./src/signal_main.o
+                0x00800212                a_out_pin
+ .data.a_in_pin
+                0x00800214        0x2 ./src/signal_main.o
+                0x00800214                a_in_pin
+ .data.current_state
+                0x00800216        0x2 ./src/signal_main.o
+                0x00800216                current_state
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV4Bulb
+                0x00800218        0xc ./src/signal_main.o
+                0x00800218                _ZTV4Bulb
+ .rodata._ZTV12FlashingBulb
+                0x00800224       0x12 ./src/signal_main.o
+                0x00800224                _ZTV12FlashingBulb
+ .rodata._ZTV9TallShift
+                0x00800236        0xa ./src/signal_main.o
+                0x00800236                _ZTV9TallShift
+ .rodata._ZTV13DistantSignal
+                0x00800240        0xa ./src/signal_main.o
+                0x00800240                _ZTV13DistantSignal
+ .rodata._ZTV12MainInSignal
+                0x0080024a        0xa ./src/signal_main.o
+                0x0080024a                _ZTV12MainInSignal
+ .rodata._ZTV13MainOutSignal
+                0x00800254        0xa ./src/signal_main.o
+                0x00800254                _ZTV13MainOutSignal
+ .rodata._ZTV11NormalState
+                0x0080025e        0xc ./src/signal_main.o
+                0x0080025e                _ZTV11NormalState
+ .rodata._ZTV9PassState
+                0x0080026a        0xc ./src/signal_main.o
+                0x0080026a                _ZTV9PassState
+ .rodata._ZTV13CrossingState
+                0x00800276        0xc ./src/signal_main.o
+                0x00800276                _ZTV13CrossingState
+ .rodata._ZTV13InToStopState
+                0x00800282        0xc ./src/signal_main.o
+                0x00800282                _ZTV13InToStopState
+ .rodata._ZTV8OutState
+                0x0080028e        0xc ./src/signal_main.o
+                0x0080028e                _ZTV8OutState
+ .rodata._ZTV16InToStopOutState
+                0x0080029a        0xc ./src/signal_main.o
+                0x0080029a                _ZTV16InToStopOutState
+ .rodata._ZTV13ShiftingState
+                0x008002a6        0xc ./src/signal_main.o
+                0x008002a6                _ZTV13ShiftingState
+ *(.gnu.linkonce.d*)
+                0x008002b2                . = ALIGN (0x2)
+                0x008002b2                _edata = .
+                0x008002b2                PROVIDE (__data_end, .)
+
+.bss            0x008002b2      0x23a
+                0x008002b2                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.logic_state
+                0x008002b2        0x8 ./src/signal_main.o
+                0x008002b2                logic_state
+ .bss.all_states
+                0x008002ba        0xe ./src/signal_main.o
+                0x008002ba                all_states
+ .bss.shifting_state
+                0x008002c8        0x8 ./src/signal_main.o
+                0x008002c8                shifting_state
+ .bss.in_to_stop_out_state
+                0x008002d0        0x4 ./src/signal_main.o
+                0x008002d0                in_to_stop_out_state
+ .bss.out_state
+                0x008002d4        0x6 ./src/signal_main.o
+                0x008002d4                out_state
+ .bss.in_to_stop_state
+                0x008002da        0x4 ./src/signal_main.o
+                0x008002da                in_to_stop_state
+ .bss.pass_state
+                0x008002de        0x4 ./src/signal_main.o
+                0x008002de                pass_state
+ .bss.crossing_state
+                0x008002e2        0x3 ./src/signal_main.o
+                0x008002e2                crossing_state
+ .bss.normal_state
+                0x008002e5        0x2 ./src/signal_main.o
+                0x008002e5                normal_state
+ .bss.images    0x008002e7        0xc ./src/signal_main.o
+                0x008002e7                images
+ .bss.error_led_b
+                0x008002f3       0x1b ./src/signal_main.o
+                0x008002f3                error_led_b
+ .bss.error_led_a
+                0x0080030e       0x1b ./src/signal_main.o
+                0x0080030e                error_led_a
+ .bss.shift_B   0x00800329        0xb ./src/signal_main.o
+                0x00800329                shift_B
+ .bss.shift_A   0x00800334        0xb ./src/signal_main.o
+                0x00800334                shift_A
+ .bss.main_out_B
+                0x0080033f       0x67 ./src/signal_main.o
+                0x0080033f                main_out_B
+ .bss.main_out_A
+                0x008003a6       0x67 ./src/signal_main.o
+                0x008003a6                main_out_A
+ .bss.main_in_B
+                0x0080040d       0x69 ./src/signal_main.o
+                0x0080040d                main_in_B
+ .bss.main_in_A
+                0x00800476       0x69 ./src/signal_main.o
+                0x00800476                main_in_A
+ .bss.timer0_fract
+                0x008004df        0x1 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008004e0        0x4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                0x008004e0                timer0_millis
+ .bss.timer0_overflow_count
+                0x008004e4        0x4 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                0x008004e4                timer0_overflow_count
+ *(COMMON)
+ COMMON         0x008004e8        0x4 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x008004e8                __brkval
+                0x008004ea                __flp
+                0x008004ec                PROVIDE (__bss_end, .)
+                0x00001e52                __data_load_start = LOADADDR (.data)
+                0x00001f04                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008004ec        0x0
+                0x008004ec                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008004ec                PROVIDE (__noinit_end, .)
+                0x008004ec                _end = .
+                0x008004ec                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x5478
+ *(.stab)
+ .stab          0x00000000     0x2db4 ./src/signal_main.o
+ .stab          0x00002db4      0x78c C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+                                0x7d4 (size before relaxing)
+ .stab          0x00003540      0x378 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+                                0x420 (size before relaxing)
+ .stab          0x000038b8      0x948 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                                0xb1c (size before relaxing)
+ .stab          0x00004200      0x6fc C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                                0xabc (size before relaxing)
+ .stab          0x000048fc      0x930 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                0xbf4 (size before relaxing)
+ .stab          0x0000522c      0x24c C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+                                0x27c (size before relaxing)
+
+.stabstr        0x00000000     0x4c92
+ *(.stabstr)
+ .stabstr       0x00000000     0x4c92 ./src/signal_main.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ./src/signal_main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000011       0x12 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+ .comment       0x00000011       0x12 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xbbc
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xbbc c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+
+.debug_abbrev   0x00000000      0xb1a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0xb1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+
+.debug_line     0x00000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x3e6
+ *(.debug_str)
+ .debug_str     0x00000000      0x3e6 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(signal_engine.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+_Z10set_imagesv                                   ./src/signal_main.o
+_Z12update_statev                                 ./src/signal_main.o
+_Z14serialEventRunv                               C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+_Z14set_error_ledsRKb                             ./src/signal_main.o
+_Z14update_signalsRKm                             ./src/signal_main.o
+_Z17initialize_statesv                            ./src/signal_main.o
+_Z17poll_logic_changev                            ./src/signal_main.o
+_Z8setupUSBv                                      C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+_ZN11NormalState7IsValidERK10LogicState           ./src/signal_main.o
+_ZN11NormalState9GetImagesER16ImagesCollection    ./src/signal_main.o
+_ZN11NormalStateD0Ev                              ./src/signal_main.o
+_ZN11NormalStateD1Ev                              ./src/signal_main.o
+_ZN11NormalStateD2Ev                              ./src/signal_main.o
+_ZN12FlashingBulb13SetFadeupTimeERKj              ./src/signal_main.o
+_ZN12FlashingBulb15SetFadedownTimeERKj            ./src/signal_main.o
+_ZN12FlashingBulb6UpdateEm                        ./src/signal_main.o
+_ZN12FlashingBulb8SetOnPwmERKj                    ./src/signal_main.o
+_ZN12FlashingBulbC1Ei                             ./src/signal_main.o
+_ZN12FlashingBulbC2Ei                             ./src/signal_main.o
+_ZN12FlashingBulbD0Ev                             ./src/signal_main.o
+_ZN12FlashingBulbD1Ev                             ./src/signal_main.o
+_ZN12FlashingBulbD2Ev                             ./src/signal_main.o
+_ZN12MainInSignal6UpdateEm                        ./src/signal_main.o
+_ZN12MainInSignal8SetImageENS_6ImagesE            ./src/signal_main.o
+_ZN12MainInSignalC1Ejjjjj                         ./src/signal_main.o
+_ZN12MainInSignalC2Ejjjjj                         ./src/signal_main.o
+_ZN12MainInSignalD0Ev                             ./src/signal_main.o
+_ZN12MainInSignalD1Ev                             ./src/signal_main.o
+_ZN12MainInSignalD2Ev                             ./src/signal_main.o
+_ZN13CrossingState7IsValidERK10LogicState         ./src/signal_main.o
+_ZN13CrossingState9GetImagesER16ImagesCollection  ./src/signal_main.o
+_ZN13CrossingStateD0Ev                            ./src/signal_main.o
+_ZN13CrossingStateD1Ev                            ./src/signal_main.o
+_ZN13CrossingStateD2Ev                            ./src/signal_main.o
+_ZN13DistantSignal6UpdateEm                       ./src/signal_main.o
+_ZN13DistantSignal8SetImageENS_6ImagesE           ./src/signal_main.o
+_ZN13DistantSignalD0Ev                            ./src/signal_main.o
+_ZN13DistantSignalD1Ev                            ./src/signal_main.o
+_ZN13DistantSignalD2Ev                            ./src/signal_main.o
+_ZN13InToStopState7IsValidERK10LogicState         ./src/signal_main.o
+_ZN13InToStopState9GetImagesER16ImagesCollection  ./src/signal_main.o
+_ZN13InToStopStateD0Ev                            ./src/signal_main.o
+_ZN13InToStopStateD1Ev                            ./src/signal_main.o
+_ZN13InToStopStateD2Ev                            ./src/signal_main.o
+_ZN13MainOutSignal6UpdateEm                       ./src/signal_main.o
+_ZN13MainOutSignal8SetImageENS_6ImagesEN12MainInSignal6ImagesE ./src/signal_main.o
+_ZN13MainOutSignalC1Ejjjjjjj                      ./src/signal_main.o
+_ZN13MainOutSignalC2Ejjjjjjj                      ./src/signal_main.o
+_ZN13MainOutSignalD0Ev                            ./src/signal_main.o
+_ZN13MainOutSignalD1Ev                            ./src/signal_main.o
+_ZN13MainOutSignalD2Ev                            ./src/signal_main.o
+_ZN13ShiftingState7IsValidERK10LogicState         ./src/signal_main.o
+_ZN13ShiftingState9GetImagesER16ImagesCollection  ./src/signal_main.o
+_ZN13ShiftingStateD0Ev                            ./src/signal_main.o
+_ZN13ShiftingStateD1Ev                            ./src/signal_main.o
+_ZN13ShiftingStateD2Ev                            ./src/signal_main.o
+_ZN16InToStopOutState7IsValidERK10LogicState      ./src/signal_main.o
+_ZN16InToStopOutState9GetImagesER16ImagesCollection ./src/signal_main.o
+_ZN16InToStopOutStateD0Ev                         ./src/signal_main.o
+_ZN16InToStopOutStateD1Ev                         ./src/signal_main.o
+_ZN16InToStopOutStateD2Ev                         ./src/signal_main.o
+_ZN4Bulb6EnableEv                                 ./src/signal_main.o
+_ZN4Bulb7DisableEv                                ./src/signal_main.o
+_ZN4BulbC1Ei                                      ./src/signal_main.o
+_ZN4BulbC2Ei                                      ./src/signal_main.o
+_ZN4BulbD0Ev                                      ./src/signal_main.o
+_ZN4BulbD1Ev                                      ./src/signal_main.o
+_ZN4BulbD2Ev                                      ./src/signal_main.o
+_ZN8OutState7IsValidERK10LogicState               ./src/signal_main.o
+_ZN8OutState9GetImagesER16ImagesCollection        ./src/signal_main.o
+_ZN8OutStateD0Ev                                  ./src/signal_main.o
+_ZN8OutStateD1Ev                                  ./src/signal_main.o
+_ZN8OutStateD2Ev                                  ./src/signal_main.o
+_ZN9PassState7IsValidERK10LogicState              ./src/signal_main.o
+_ZN9PassState9GetImagesER16ImagesCollection       ./src/signal_main.o
+_ZN9PassStateD0Ev                                 ./src/signal_main.o
+_ZN9PassStateD1Ev                                 ./src/signal_main.o
+_ZN9PassStateD2Ev                                 ./src/signal_main.o
+_ZN9TallShift6UpdateEm                            ./src/signal_main.o
+_ZN9TallShift8SetImageENS_6ImagesE                ./src/signal_main.o
+_ZN9TallShiftD0Ev                                 ./src/signal_main.o
+_ZN9TallShiftD1Ev                                 ./src/signal_main.o
+_ZN9TallShiftD2Ev                                 ./src/signal_main.o
+_ZTV11NormalState                                 ./src/signal_main.o
+_ZTV12FlashingBulb                                ./src/signal_main.o
+_ZTV12MainInSignal                                ./src/signal_main.o
+_ZTV13CrossingState                               ./src/signal_main.o
+_ZTV13DistantSignal                               ./src/signal_main.o
+_ZTV13InToStopState                               ./src/signal_main.o
+_ZTV13MainOutSignal                               ./src/signal_main.o
+_ZTV13ShiftingState                               ./src/signal_main.o
+_ZTV16InToStopOutState                            ./src/signal_main.o
+_ZTV4Bulb                                         ./src/signal_main.o
+_ZTV8OutState                                     ./src/signal_main.o
+_ZTV9PassState                                    ./src/signal_main.o
+_ZTV9TallShift                                    ./src/signal_main.o
+_ZdaPv                                            C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+_ZdlPv                                            C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+                                                  ./src/signal_main.o
+_Znaj                                             C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+_Znwj                                             C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+__FUSE_REGION_LENGTH__                            c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__addsf3                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                                                  ./src/signal_main.o
+__addsf3x                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+__bad_interrupt                                   c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__brkval                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__bss_end                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+__ctors_end                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+__ctors_start                                     c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+__data_end                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+__data_start                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+__divsf3                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                                                  ./src/signal_main.o
+__divsf3_pse                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+__divsf3x                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+__do_clear_bss                                    c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_clear_bss.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                                                  ./src/signal_main.o
+__do_copy_data                                    c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_copy_data.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                                                  ./src/signal_main.o
+__do_global_ctors                                 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+                                                  ./src/signal_main.o
+__do_global_dtors                                 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+                                                  ./src/signal_main.o
+__dtors_end                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+__dtors_start                                     c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+__fixsfsi                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+                                                  ./src/signal_main.o
+__fixunssfsi                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+__floatsisf                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+__floatunsisf                                     c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(floatsisf.o)
+                                                  ./src/signal_main.o
+__flp                                             c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__fp_inf                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_inf.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__fp_nan                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_nan.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__fp_pscA                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscA.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__fp_pscB                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_pscB.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__fp_round                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_round.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+__fp_split3                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__fp_splitA                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_split3.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixsfsi.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(divsf3x.o)
+__fp_zero                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fp_zero.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(fixunssfsi.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3x.o)
+__heap_end                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__heap_start                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__init                                            c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__malloc_heap_end                                 c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__malloc_heap_start                               c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__malloc_margin                                   c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+__mulsf3                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+                                                  ./src/signal_main.o
+__mulsf3_pse                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3x.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(mulsf3.o)
+__stack                                           c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__subsf3                                          c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libm.a(addsf3.o)
+                                                  ./src/signal_main.o
+__tablejump2__                                    c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_tablejump2.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_dtors.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_ctors.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+__udivmodsi4                                      c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_udivmodsi4.o)
+                                                  ./src/signal_main.o
+__vector_1                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_10                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_11                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_12                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_13                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_14                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_15                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_16                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_17                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_18                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_19                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_2                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_20                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_21                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_22                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_23                                       C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_24                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_25                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_26                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_27                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_28                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_29                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_3                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_30                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_31                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_32                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_33                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_34                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_35                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_36                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_37                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_38                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_39                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_4                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_40                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_41                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_42                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_43                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_44                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_45                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_46                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_47                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_48                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_49                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_5                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_50                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_51                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_52                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_53                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_54                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_55                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_56                                       c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_6                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_7                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_8                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_9                                        c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_default                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+__vectors                                         c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+_exit                                             c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+a_dev_pin                                         ./src/signal_main.o
+a_in_pin                                          ./src/signal_main.o
+a_out_pin                                         ./src/signal_main.o
+a_shift_pin                                       ./src/signal_main.o
+all_states                                        ./src/signal_main.o
+analogRead                                        C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+analogReference                                   C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+analogWrite                                       C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                                                  ./src/signal_main.o
+analog_reference                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+atexit                                            C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+b_dev_pin                                         ./src/signal_main.o
+b_in_pin                                          ./src/signal_main.o
+b_out_pin                                         ./src/signal_main.o
+b_shift_pin                                       ./src/signal_main.o
+crossing_state                                    ./src/signal_main.o
+current_state                                     ./src/signal_main.o
+delay                                             C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+delayMicroseconds                                 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+digitalRead                                       C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                                  ./src/signal_main.o
+digitalWrite                                      C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                                                  ./src/signal_main.o
+digital_pin_to_bit_mask_PGM                       C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+error_led_a                                       ./src/signal_main.o
+error_led_b                                       ./src/signal_main.o
+exit                                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/avr6\libgcc.a(_exit.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+free                                              c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+images                                            ./src/signal_main.o
+in_to_stop_out_state                              ./src/signal_main.o
+in_to_stop_state                                  ./src/signal_main.o
+init                                              C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+initVariant                                       C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+logic_state                                       ./src/signal_main.o
+loop                                              ./src/signal_main.o
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+main                                              C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+                                                  c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6/crtatmega2560.o
+main_in_A                                         ./src/signal_main.o
+main_in_B                                         ./src/signal_main.o
+main_out_A                                        ./src/signal_main.o
+main_out_B                                        ./src/signal_main.o
+malloc                                            c:/program files (x86)/arduino/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(new.o)
+micros                                            C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+millis                                            C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+                                                  ./src/signal_main.o
+normal_state                                      ./src/signal_main.o
+out_state                                         ./src/signal_main.o
+pass_state                                        ./src/signal_main.o
+pinMode                                           C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_analog.o)
+                                                  ./src/signal_main.o
+port_to_input_PGM                                 C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+port_to_mode_PGM                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+port_to_output_PGM                                C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring_digital.o)
+setup                                             ./src/signal_main.o
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(main.o)
+shift_A                                           ./src/signal_main.o
+shift_B                                           ./src/signal_main.o
+shifting_state                                    ./src/signal_main.o
+timer0_millis                                     C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+timer0_overflow_count                             C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
+yield                                             C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(hooks.o)
+                                                  C:\Users\StenRoar\workspace\ArduinoCore\Mega2560\libArduinoCore.a(wiring.o)
