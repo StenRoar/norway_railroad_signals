@@ -217,7 +217,7 @@ public:
 					else if(main_in_image == MainInSignal::Images::GREEN_STRAIGHT)
 						m_distant.SetImage(DistantSignal::Images::ORANGE);
 					else
-						m_distant.SetImage(DistantSignal::Images::GREEN);
+						m_distant.SetImage(DistantSignal::Images::BOTH);
 					break;
 		default:
 			m_s_top_green.Disable();
